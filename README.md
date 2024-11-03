@@ -1,5 +1,8 @@
 # Hand Distance Measurement with Normal Webcam - Game
 
+https://github.com/user-attachments/assets/56ef2d34-0892-4df6-a226-c773e780a484
+https://github.com/user-attachments/assets/56ef2d34-0892-4df6-a226-c773e780a484
+
 **This project demonstrates a fun, interactive game** that uses computer vision to measure the distance between a player's hand and a target circle on the screen. Built using Python and OpenCV, the game leverages hand tracking to calculate the distance of the player's hand from the webcam and integrates a scoring system for added excitement. The goal is to move your hand close to the target circle within a specified time limit to earn points.
 
 ## Features
