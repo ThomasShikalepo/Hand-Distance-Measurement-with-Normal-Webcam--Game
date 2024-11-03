@@ -36,3 +36,8 @@ To run this project, ensure you have Python installed on your machine, and then 
    ```bash
    git clone https://github.com/your-username/hand-distance-game.git
    cd hand-distance-game
+2. **Install the required dependencies**:
+3. ```bash
+   pip install opencv-python cvzone numpy
+
+   
