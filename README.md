@@ -34,7 +34,7 @@ To run this project, ensure you have Python installed on your machine, and then 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/hand-distance-game.git
+   git clone https://github.com/thomasShikalepo/hand-distance-game.git
    cd hand-distance-game
 2. **Install the required dependencies**:
 3. ```bash
