@@ -1,13 +1,12 @@
 # Hand Distance Measurement with Normal Webcam - Game
 
-https://github.com/user-attachments/assets/56ef2d34-0892-4df6-a226-c773e780a484
-https://github.com/user-attachments/assets/56ef2d34-0892-4df6-a226-c773e780a484
+![Game Screenshot](https://github.com/user-attachments/assets/56ef2d34-0892-4df6-a226-c773e780a484)
 
 **This project demonstrates a fun, interactive game** that uses computer vision to measure the distance between a player's hand and a target circle on the screen. Built using Python and OpenCV, the game leverages hand tracking to calculate the distance of the player's hand from the webcam and integrates a scoring system for added excitement. The goal is to move your hand close to the target circle within a specified time limit to earn points.
 
 ## Features
 
-- **Hand Tracking**: Uses `cvzone` and OpenCV to detect and track hands in real time through a standard webcam.
+- **Hand Tracking**: Utilizes `cvzone` and OpenCV to detect and track hands in real time through a standard webcam.
 - **Distance Measurement**: Calculates the distance between specific landmarks on the hand, mapping the distance in pixels to real-world units (centimeters) using a polynomial function.
 - **Dynamic Targeting**: Randomly relocates a target circle on the screen every time the player achieves a "hit," keeping the game challenging and engaging.
 - **Real-Time Score and Timer**: Displays a live countdown timer and score on the game screen.
@@ -29,3 +28,11 @@ https://github.com/user-attachments/assets/56ef2d34-0892-4df6-a226-c773e780a484
 4. **Scoring and Timing**: The player accumulates points by quickly reaching the target circle within a 20-second limit.
 5. **Game Over Screen**: Once time runs out, a game-over screen shows the final score and gives the player the option to restart.
 
+## Getting Started
+
+To run this project, ensure you have Python installed on your machine, and then follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/hand-distance-game.git
+   cd hand-distance-game
